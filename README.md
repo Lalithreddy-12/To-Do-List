@@ -10,7 +10,7 @@ This project is built with HTML, CSS & JavaScript and is a great example of a ba
 
 ## Getting Started
 
-- Open the index.html file in your browser
+- Open the To-Do_List.html file in your browser
 
 ### 1. Adding a task
 To add a task to the to-do list, simply enter the task description in the input field at the top of the page and press the "Add" button. The task will be added to the list. You can see how many tasks were added in the list at the total items display below the lists. 
