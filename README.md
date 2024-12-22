@@ -1,4 +1,4 @@
-<h1 align="center"> To-Do-List </h1>
+<h1 align="center"><B> To-Do-List </B></h1>
 
 
 https://github.com/user-attachments/assets/13282a7e-cc3e-4911-af5c-161fd3c7940c
