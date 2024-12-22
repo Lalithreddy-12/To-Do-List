@@ -1,4 +1,4 @@
-<h1 align="center"><B> To-Do-List </B></h1>
+<h1 align="center"><B> To-Do List </B></h1>
 
 
 https://github.com/user-attachments/assets/13282a7e-cc3e-4911-af5c-161fd3c7940c
@@ -6,7 +6,7 @@ https://github.com/user-attachments/assets/13282a7e-cc3e-4911-af5c-161fd3c7940c
 ## About The Project
 
 The To-Do List project is a simple web application that allows users to create and manage a list of tasks they need to complete. With a clean and intuitive interface, users can quickly add, edit, and delete tasks, as well as mark tasks as complete.
-This project is built with HTML,CSS & JavaScript and is a great example of a basic web application event listeners.
+This project is built with HTML, CSS & JavaScript and is a great example of a basic web application event listeners.
 
 ## Getting Started
 
